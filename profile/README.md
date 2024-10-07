@@ -3,7 +3,7 @@
 </p>
 
 We're expanding global financial access
-& individual agency through ZK-enabled infrastructure on Bitcoin.
+& individual agency through ZK-enabled infrastructure on bitcoin.
 
 ---
 
