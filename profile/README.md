@@ -1,19 +1,13 @@
 <p align="center">
-  <img src="images/logo.png" alt="Alpen Labs Logo" width="50%">
+  <img src="images/logo.png" alt="Alpen Labs Logo" width="50%"  style="background: black; padding: 12px; border-radius: 8px">
 </p>
 
 We're expanding global financial access
 & individual agency through ZK-enabled infrastructure on bitcoin.
 
----
-
-<p align="center">
-  <img src="https://docs.stratabtc.org/images/Strata_Small.png" alt="Strata Logo" width="21%">
-</p>
-
-[**Strata**](https://stratabtc.org) gives developers the freedom to program nearly
+[**Alpen**](https://alpenlabs.io) gives developers the freedom to program nearly
 any locking conditions for BTC imaginable,
-limited only by the Strata block size and gas limits.
+limited only by the Alpen block size and gas limits.
 This enables developers to create new kinds of applications for BTC
 with features such as:
 
