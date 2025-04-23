@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="images/logo.png" alt="Alpen Labs Logo" width="50%"  style="background: black; padding: 12px; border-radius: 8px">
+  <img src="images/logo.png" alt="Alpen Labs Logo" width="50%">
 </p>
 
 We're expanding global financial access
